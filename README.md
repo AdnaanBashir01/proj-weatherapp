@@ -5,16 +5,9 @@ A responsive real-time weather application built with JavaScript (ES6+), HTML5, 
 
 Features:
 Fetches and displays real-time weather data using REST APIs.
-
 Supports automatic geolocation detection to show weather for the user's current location.
-
 Includes city-based search for checking weather conditions in different locations.
-
-Uses asynchronous JavaScript with API requests to handle live weather data.
-
+Uses asynchronous JavaScript with API requests to handle live weather data
 Displays key meteorological information in a clean and responsive interface.
-
-Implements error handling for invalid searches, unavailable locations, and network/API failures.
-
 Responsive design for a smooth experience across different screen sizes.
 
